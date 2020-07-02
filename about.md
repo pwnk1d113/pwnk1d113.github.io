@@ -13,5 +13,3 @@ Feel free to Join My Discord Server [Discord](https://discord.gg/Vkvj4B5)
 <<<<<<< HEAD
 
 <iframe src="https://discordapp.com/widget?id=728150526503551007&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" align="middle"></iframe>
-=======
->>>>>>> 0a7d8c0c7d900ff9b3bf523f904ac93a141233c3
