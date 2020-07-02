@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: BUG_BOUNYT
+  path: BUG_BOUNTY
   label: BUG BOUNTY
   create: all
   match: "**/*"

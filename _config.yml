@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+title: Pwnk1dd13-Blog
+iconURL: assets/default-icon.png
+theme: jekyll-theme-leaf
+owner: pwnk1dd13
+
+# for a clean URL
+#permalink: :slug
+permalink:  /:title/
+baseurl: /
+url: pwnk1dd13.github.io
+
+social:
+  twitter: hck4sks
+  github: pwnk1dd13
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-paginate
+
+paginate: 3
+
+### comments & analytics
+hyvor_talk_website_id: 1078
+google_analytics: G-6MSHTNSSN6
