@@ -7,6 +7,8 @@ Hey! This is `pwnk1dd13`. I'm a student and occasionaly play CTFs. This is my bl
 
 You can contact me via <a rel="me" target="_blank" href="https://twitter.com/hck4sks">Twitter</a>.
 
+You can always mail me via [ProtonMail](mailto:pwnk1d113@protonmail.com).
+
 You can find my Github at <a href="https://github.com/pwnk1dd13">Github</a>
 
 Feel free to Join My Discord Server [Discord](https://discord.gg/Vkvj4B5)
