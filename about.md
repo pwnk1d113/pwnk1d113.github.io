@@ -10,6 +10,5 @@ You can contact me via <a rel="me" target="_blank" href="https://twitter.com/hck
 You can find my Github at <a href="https://github.com/pwnk1dd13">Github</a>
 
 Feel free to Join My Discord Server [Discord](https://discord.gg/Vkvj4B5)
-<<<<<<< HEAD
 
 <iframe src="https://discordapp.com/widget?id=728150526503551007&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" align="middle"></iframe>
