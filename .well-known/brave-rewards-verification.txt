@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: 0v3rf10w.tech
+Token: 6553b5f100a0d4caba789652a423abf05a3d735916e6fe3e4d9ade6b7f611d32
