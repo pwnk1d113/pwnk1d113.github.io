@@ -11,8 +11,7 @@ You can always mail me via [ProtonMail](mailto:pwnk1d113@protonmail.com).
 
 You can find my Github at <a href="https://github.com/pwnk1dd13">Github</a>
 
-<!--
-Feel free to Join My Discord Server [Discord]
+If u wanted to help me and keep my server up, U can help me by using referral link of digital ocean [here](https://m.do.co/c/8664419660e4).
+I'll be grateful to you.
 
-<iframe src="https://discordapp.com/widget?id=28150526503551007&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" align="middle"></iframe>
--->
+Thanks!
